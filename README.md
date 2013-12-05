@@ -9,5 +9,5 @@ Install
 =======
 
 - [Download this .crx file](dist/champion-counter.crx?raw=true)
-- go to 'chrome://extensions/'
+- go to `chrome://extensions/`
 - drag the downloaded file to that page
