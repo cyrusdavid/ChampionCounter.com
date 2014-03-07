@@ -8,6 +8,6 @@ Chrome extension to get rid of the more button and just show the champions.
 Install
 =======
 
-- [Download this .crx file](dist/champion-counter.crx?raw=true)
+- [Download the latest release](https://github.com/vohof/ChampionCounter.com/releases)
 - go to `chrome://extensions/`
 - drag the downloaded file to that page
